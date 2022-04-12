@@ -1,6 +1,6 @@
 # Overview
 
-This is a writeup for smart clock design exercise (1) that I design and build an desk/smart clock.
+This is a writeup for smart clock design exercise (1) that I designws and built an desk/smart clock.
 
 I will mainly discuss what each function is responsible for in section 1, and specific design desicion for all my state machines as they make up most part of the exercise in section 2.
 
